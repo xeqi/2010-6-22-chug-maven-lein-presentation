@@ -1,1 +1,3 @@
 A presentation for the clojure houston group over maven and lein.  Targeted towards people learning clojure that do not know the java ecosystem, but understand why build tools are good.
+
+Uses the showoff ruby library to run in a browser.
